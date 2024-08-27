@@ -16,7 +16,7 @@ Additionally, insights are presented through a PowerPoint presentation and an in
 ## Collaborators
 
 - [Kunal Jain](https://github.com/hrugwedm)
-- [Gayatri Tumsare](https://github.com/gayu47)
+- [Gayatri Tumsare](https://github.com/GayatriTumsare)
 - [Hrugwed More](https://github.com/10kunalJain)
 - [Saswat Nayak](https://github.com/Saswat132002)
 - [Afreen Ansar](https://github.com/05afreen)
